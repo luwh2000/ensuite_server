@@ -1,3 +1,6 @@
-emap2sec/
+*
+!job.sh
+!run.sh
 prereq/
-!emap2sec/*.sh
+
+!*/
